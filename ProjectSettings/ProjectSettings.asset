@@ -168,7 +168,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.playnova.fireflylegends
     Standalone: com.playnova.fireflylegends
-    iPhone: com.playnova.fireflylegends
+    iPhone: com.playnova.firefly.legends
   buildNumber:
     Standalone: 0
     VisionOS: 0
